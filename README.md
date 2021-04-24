@@ -1,5 +1,5 @@
 # Monte Carlo simulation
-### Monte Carlo simulation is used to determine the range of outcomes for a series of parameters, each of which has a probability distribution showing how likely each option is to happen
+#### Monte Carlo simulation is used to determine the range of outcomes for a series of parameters, each of which has a probability distribution showing how likely each option is to happen.
 ----
 ## Scenario
 ![Screenshot](./scenario.jpg)
@@ -22,3 +22,6 @@ A castle sits on top of a cliff. An amateur band of merceneries is attempting to
 
 ## Performance Vs. Number of trails
 ![Screenshot](./performance_trials.PNG)
+
+
+### To Run: `./threads_test`
